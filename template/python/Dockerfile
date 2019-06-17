@@ -1,6 +1,6 @@
-FROM bde2020/spark-submit:2.4.1-hadoop2.7
+FROM spark-submit:2.4.1-hadoop2.7
 
-MAINTAINER Cecile Tonglet <cecile.tonglet@tenforce.com>
+MAINTAINER Hua Wei <weihua19900704@gmail.com>
 
 COPY template.sh /
 
