@@ -16,7 +16,7 @@ build() {
 build base
 build master
 build worker
-#build submit
-#build java-template template/java
-#build scala-template template/scala
-#build python-template template/python
+build submit
+build java-template template/java
+build scala-template template/scala
+build python-template template/python
